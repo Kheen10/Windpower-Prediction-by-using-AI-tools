@@ -1,6 +1,7 @@
 # Windpower-Prediction-by-using-AI-tools
 Code implementations for wind power prediction using AI tools, including SARIMAX, TCN, and a hybrid SARIMAX+TCN+Random Forest pipeline.
 
+Data Source: https://www.kaggle.com/datasets/mubashirrahim/wind-power-generation-data-forecasting?resource=download
 
 This repository contains code for forecasting wind power output using statistical and machine learning models. Accurate prediction of wind power is essential for grid stability, market operations, and renewable energy integration.
 
